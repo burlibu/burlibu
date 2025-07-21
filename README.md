@@ -7,9 +7,10 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,linux,notion,powershell,vscode,windows)](https://skillicons.dev)
-
+<!-- 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,cmake,docker,git,github,linux,nextjs,nodejs,,notion,powershell,python,pytorch,tailwind,vscode,windows)](https://skillicons.dev)
-<!--
+
+
 **burlibu/burlibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
